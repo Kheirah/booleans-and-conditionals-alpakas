@@ -5,11 +5,9 @@ Use this function as starting point for your exercise.
 ```js
 let loggedInUser = "Mr. JS";
 
-function outputMessage(user) {
+if (loggedInUser === "something") {
   //your badass code
 }
-
-outputMessage(loggedInUser);
 ```
 
 You can run your code by entering the following command in the terminal:
