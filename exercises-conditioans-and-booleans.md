@@ -9,7 +9,7 @@ function outputMessage(user) {
   //your badass code
 }
 
-outputMessage();
+outputMessage(loggedInUser);
 ```
 
 You can run your code by entering the following command in the terminal:
